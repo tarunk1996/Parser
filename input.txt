@@ -1,1 +1,2 @@
-A => Ac|Aab|Bc|d
+A => Acd | Acb | ABcA| BcAc | BcAd | Bc
+B => BA | BAa | BAc
